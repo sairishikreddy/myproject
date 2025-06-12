@@ -1,1 +1,2 @@
 "this is the main app." 
+"New feature: Dark mode." 
